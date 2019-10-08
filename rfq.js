@@ -4,7 +4,7 @@ jQuery(document).ready(function() {
 
 	// Short Text
 	// jQuery('[data-id="49250411"] input').val('Ola');
-	jQuery('[data-id="56017663"] input').val('Ola');
+	jQuery('[data-id="price-00000016-prefix-acc"] input').val('Ola');
 
 	// Textarea
 	
