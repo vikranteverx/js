@@ -1,11 +1,12 @@
 jQuery(document).ready(function() {
 
 	/*  FIELDS */
-
+	var productUrl = window.location.href;
+	loader.engine.document.getElementById(57506942).setValue(({"value":  productUrl}));
 	// Short Text
 	// jQuery('[data-id="49250411"] input').val('Ola');
-	jQuery('[data-id="57506942"] input').val('Ola');
-	jQuery('[data-id="57506942"] input').val("Ola");
+	//jQuery('[data-id="57506942"] input').val('Ola');
+	//jQuery('[data-id="57506942"] input').val("Ola");
 	// Textarea
 	
 	// jQuery('[data-id="49250408"] textarea').val('The quick brown fox jumps over the lazy dog');
