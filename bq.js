@@ -1,7 +1,8 @@
 jQuery(document).ready(function() {
 
 	
-	var productUrl = window.location.href;
-	loader.engine.document.getElementById("57506942").setValue(({"value":  productUrl}));
+	//var productUrl = window.location.href;
+	var productUrl = "Hello";
+	loader.engine.document.getElementById("57541314").setValue(({"value":  productUrl}));
 	
 });
